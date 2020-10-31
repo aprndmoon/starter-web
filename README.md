@@ -12,8 +12,7 @@
 ## Purpose
 
 ## How to Contribute
->>>>>>> 2c39627b40093d6703fc069fd85ecb1f3dba9a4a
-
+Please fork this repostory and then issue pull requests for review.
 ### Copyright
 
 2020 Copyright git training
